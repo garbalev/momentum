@@ -15,7 +15,7 @@ body {
   width: 100vw;
   background-size: cover;
   color: white;
-  background: rgba(0,0,0,0.2) center center / cover no-repeat;
+  background: rgba(0,0,0,0.2) center center / cover  no-repeat;
   background-blend-mode: multiply;
   background-position: center center;
   background-image: url('');
